@@ -1,6 +1,6 @@
 ### Hi!
 
-My name is Aiden and this is my github. It's mostly for whatever im goofing off with at the moment or want to share.
+My name is Aiden and this is my github. It's mostly for when I have downtime and playtime and or for things I want to share.
 <!--
 **LoudnessWar/LoudnessWar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
